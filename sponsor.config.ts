@@ -2,6 +2,11 @@
 import { defineConfig, presets } from 'sponsorkit'
 
 export default defineConfig({
+  github: {
+    login: 'sayrix',
+    type: 'user',
+  },
+  formats: ['json', 'svg', 'png'],
   tiers: [
     {
       title: 'Sponsors',
