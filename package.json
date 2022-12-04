@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "sponsorkit"
+    "build": "sponsorkit --dir=. -w=800"
   },
   "devDependencies": {
     "sponsorkit": "latest"
