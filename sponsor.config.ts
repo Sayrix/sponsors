@@ -9,17 +9,12 @@ export default defineConfig({
   formats: ['json', 'svg', 'png'],
   tiers: [
     {
-      title: 'Sponsors',
-      // to replace the entire tier rendering
-      // compose: (composer, tierSponsors, config) => {
-      //   composer.addRaw(
-      //     '<-- custom svg -->',
-      //   )
-      // },
+      title: 'Sponsors ❤️',
+      preset: presets.base,
     },
     {
-      title: 'Silver Sponsors',
-      monthlyDollars: 10,
+      title: 'Silver Sponsors 💖',
+      monthlyDollars: 5,
       preset: presets.medium,
       // to insert custom elements after the tier block
       composeAfter: (composer, tierSponsors, config) => {
@@ -27,9 +22,14 @@ export default defineConfig({
       },
     },
     {
-      title: 'Gold Sponsors',
-      monthlyDollars: 50,
+      title: 'Gold Sponsors 🧡',
+      monthlyDollars: 10,
       preset: presets.large,
-    }
+    },
+    {
+      title: 'Platinum Sponsors 🤍',
+      monthlyDollars: 20,
+      preset: presets.xl,
+    },
   ],
 })
