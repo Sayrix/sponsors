@@ -6,7 +6,7 @@ export default defineConfig({
     login: 'sayrix',
     type: 'user',
   },
-  formats: ['json', 'svg', 'png'],
+  formats: ['json', 'svg'],
   tiers: [
     {
       title: 'Sponsors ❤️',
