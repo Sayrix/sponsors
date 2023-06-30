@@ -134,25 +134,6 @@
   },
   {
     "sponsor": {
-      "login": "GapsaW",
-      "name": "GapsaABaddie",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92039956?v=4",
-      "websiteUrl": null,
-      "linkUrl": "https://github.com/GapsaW",
-      "type": "User",
-      "avatarUrlHighRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAAM1BMVEVMaXHelqTfl6Xw8PDw8PDw7/DoyM7w6+zt4ePw8PDelqTr1trdkqDx9vXelaPfnarnw8pVOuasAAAACnRSTlMA7LL/o2Ue/D7KUXHwywAAAAlwSFlzAAALEwAACxMBAJqcGAAAAwJJREFUeNrtm9GW4yAIhtOAIjZt5/2fds/szmlMQo1RwYvZ/zr6HZCmBGGaLis4h8xEBEBEzOhcmJQVHDKIYnReCeodEmRFGvCAUCR2fakExSIMxsYmZvdAB4YKNXu8DttstUdoEFaHuKNG1fnbz69mzRVGh9uzWTHeLp/0HJ+xi+aLbo7ddMXd/hY76ubHcMvJoTO3NMRCVFAYxC0g+5sOOPpB3JMI0+OekOeoqHkQN0MOUVnB/oCzxzw/tcGys91LH7wIOYmnV9QH34/ORorLUeLqhufueIhogLsgwf3LV8NzBPvIZoDHUSBteK9/7gHAB4PF7yB5w+rnvhX2BluBucBgFfDGZLYE87nBOuDEZLQFr79lsgXT+y0NtmBwZ57WAv/42oM1GPyJp9XA7sTTamDMx7QemLJvD0Xw33eIGwF2+SPWA2PmD0IV/P1Hsa4W1AQWdnyvSGKLpELVM1aDo7BdfK8Na2zRa5EqVfVgYbd1rUvBZQl9MTi71q1BbQvGNahtwTwOTGPA9AvBMAYM48D/g8sG/OBf+OYa9icx7G+xEzheBocsWKxVCblUYY1sSVKfKZuwiTUtIZcqrX29wUl6S8U1rUXKpUprX2t6i0o5dPY5TD5hTMEu+WgzBYfkM9USTOmHuSUY01KEJdilxRdDMPm03GQIxk2BzRDsNiVFOzBti6h2YNyWje3AYVsoNwPz7mrADBx2lyFWYN5f/1iBw/7CS8qb2sDifny44hPzphawvN/h8hrFu0WhsltcxRP3Q+Ea9yHeBdaDpf1IuDPPVXGrwJLEZjrWB7PcnEDaYPrQgxK0wR87jVAXjJ9bX1gTzLkmI9IDc769ibTAdNLQFUgHTKctbKfkOnBB057TABe1/57YXAGmwg7cPPk6mIo7fz33BPOV5lvuB+ZrPdauFxini/p40KW52cXjPXd3aW5W4ea3u2WjC3MzAKoelpDHFQpzs4ZxhXEDGvXoPtMwY4ZwpnFjR5fYfQet/oX4mNGyH7tzw3QGo3w9xgf/AOSqTdlrDVyoAAAAAElFTkSuQmCC",
-      "avatarUrlMediumRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAATlBMVEVMaXHw8PDw8PDw8fHw8fHr19vw8PDv6+zw8fHr19velqTel6XdkaDpztPs2d3w8PDelqTx9fXdkqHs3uHhoq7dj57nwcnq09fktL7q0dbmHNSeAAAAD3RSTlMAbdG6SBuU+eEJ1JRTstjOOY1yAAAACXBIWXMAAAsTAAALEwEAmpwYAAACRElEQVR42rWZ25aDIAxF5Rawl4Xa2tb//9FZLbYGFBTInFdhS4gEODZNWkoyENxoa7XhAphUTblaCdyuxEG2RTgJ2kakQWYPjhmblGEtJS4TKU1/SOZY4Oo6Hdb1QM4vQ5Yue7N37jJ1Ts5ke+qydUoQVQGv606KlhcnlvJixLaYtz2PNbxN4rmr0nn1PXeVCr5wNdQCRz8x13rg1asvUz3wgWpPa/QN6ek1fOFnD/ziYcK9tFkyzazFdc7eB/zmHj18esCb18uyZYDBlhECf+qnAOjX8HYZIAnwN0RDBTRzii0V0LpEAx0QPinRdEDdbkVcAfzEDJTAd8ycEsibRllKoFXfKUwuvTjQW3puEj/LpL+9sPwqEgd6nabeLRZwDUd8vjgI7HCfuR00YqPhUeBGO+GSTAfkrjLQAU2jqYGWFmipR6jpQyZPCvlnQ/5hQ3pJhfvy2KWXKMzFwQfesV7P5V7yfHiPNoDMla9EnetfqG6M9726KV2BTQLRo2EXqNwWQAbk8yZFBoR5GyUDynmjpwJ+Nvp3zFRA+B6WqIDye5wjAprfgZMIyH5HYhrgcmpnNECGrhUUQHStaKR3T7nhXgmg9Tppz3QR/frcsw/0Ogn/8hj1uVJAL/7gVi9rgSuXCeqAsLYIRA1QbJkOvBzIN20RZUqBJmbcmDKgiVtLvATIE56fEvlAkfYQIRcIe8ap1CFwRAqB+oBrGoY9PbCywl1M3WgF8OqGOexmU9vO9Mb4bN1HmQXW/X/8XJhznvv74w8YVT1mSyuSxwAAAABJRU5ErkJggg==",
-      "avatarUrlLowRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAATlBMVEVMaXHw8PDw8PDx8fHw8PDt3+Lw8PDgoKzw8PDnw8relaTw8fHw8PDelqTw8PDw7+/dk6Lx8vLy9vXdkZ/iqLPluMHt3+Lq1dnv6uvnxMqY794IAAAADXRSTlMAlKXuu1vZ/hsJsDB80b15IQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAbpJREFUeNqdlusagyAIhjWP2wora9X93+ieEsrOue9f6BuFCDC2k1VcauGc0JIry25lcw0r6fya+mQOdnLyc+4hgxNlJ56UaU5l1AHwepeXer/2RHGjLXNPbJknxIZ5RBTFO4pV+Qwp5rhZ40s/aiY9ip5x2Rs6n2xogxpi8Lk1SBh8HjLMEqiC6sHjDrLgO3xbowVC7mTgghbEoWlBcAtMbixl4goJihDaNP5NDikI5IwxnYZoxiykIWCZAoCqHlVdIbgFABTjAPBFtacI7XAAnMllZT7rLbIs9ABy+vvGJyCaiVQvgrlUxP2D/PFh+hCprn5/FeRQf/zixQfTOsh8QcqmCxqo4g1omM+4H49SrfIi6EsXuUPDECFqSssZqaZ7VH3pQzo0xIidkj9CxoyOkCmDXexFhyuWguThIqcgNpQLitgdUpg+w6JkMEDh8h0iQab/bEpfd+Kl6qj0cSqwAsMf0mSH0E2vazE3QOWosp0gtB61P77qwHsExeOWJJ8gct3G5D0it81SHiBFjMh9S+bXXvjraFQQM2JQ4aAAQKiTgYTjBtej3M1A8s/YswxX0dHeDVePRrgf6B1yn93GtO0AAAAASUVORK5CYII="
-    },
-    "isOneTime": false,
-    "monthlyDollars": 1,
-    "privacyLevel": "PUBLIC",
-    "tierName": "$1 a month",
-    "createdAt": "2023-04-16T20:30:01Z",
-    "provider": "github"
-  },
-  {
-    "sponsor": {
       "login": "Lucas6635",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/99401948?u=1a496fea65a2cf5804c9ff89a4f555730795b649&v=4",
