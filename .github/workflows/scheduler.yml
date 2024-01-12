@@ -18,6 +18,7 @@ jobs:
         with:
           node-version: 16.x
 
+      - run: npm install --os=linux --cpu=x64 sharp
       - run: npx pnpm i
 
       - name: Update sponsors
