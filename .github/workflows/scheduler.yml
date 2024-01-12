@@ -16,9 +16,8 @@ jobs:
       - name: Set node
         uses: actions/setup-node@v2
         with:
-          node-version: 16.x
+          node-version: "lts/*"
 
-      - run: npm install --os=linux --cpu=x64 sharp
       - run: npx pnpm i
 
       - name: Update sponsors
