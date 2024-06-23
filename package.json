@@ -1,9 +1,11 @@
 {
-  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@9.1.0",
   "scripts": {
-    "build": "sponsorkit --dir=. -w=800"
+    "build": "sponsorkit"
   },
   "devDependencies": {
-    "sponsorkit": "latest"
+    "@types/node": "^20.12.11",
+    "sponsorkit": "^0.14.5"
   }
 }
