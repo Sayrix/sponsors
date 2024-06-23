@@ -1,21 +1,22 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import { defineConfig, presets } from 'sponsorkit'
+import { defineConfig, tierPresets } from 'sponsorkit'
 
 export default defineConfig({
   github: {
     login: 'sayrix',
     type: 'user',
   },
+  outputDir: '.',
   formats: ['json', 'svg'],
   tiers: [
     {
       title: 'Sponsors ❤️',
-      preset: presets.base,
+      preset: tierPresets.base,
     },
     {
       title: 'Silver Sponsors 💖',
       monthlyDollars: 3,
-      preset: presets.medium,
+      preset: tierPresets.medium,
       // to insert custom elements after the tier block
       composeAfter: (composer, tierSponsors, config) => {
         composer.addSpan(10)
@@ -24,12 +25,12 @@ export default defineConfig({
     {
       title: 'Gold Sponsors 🧡',
       monthlyDollars: 5,
-      preset: presets.large,
+      preset: tierPresets.large,
     },
     {
       title: 'Platinum Sponsors 🤍',
       monthlyDollars: 10,
-      preset: presets.xl,
+      preset: tierPresets.xl,
     },
   ],
 })
