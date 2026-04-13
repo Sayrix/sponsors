@@ -1,11 +1,17 @@
 {
   "type": "module",
-  "packageManager": "pnpm@9.1.0",
+  "packageManager": "pnpm@10.16.1",
   "scripts": {
     "build": "sponsorkit"
   },
   "devDependencies": {
-    "@types/node": "^20.12.11",
-    "sponsorkit": "^17.1.0"
+    "@types/node": "^24.5.0",
+    "sponsorkit": "^17.0.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "sharp"
+    ]
   }
 }
