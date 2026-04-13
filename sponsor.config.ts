@@ -2,10 +2,6 @@
 import { defineConfig, tierPresets } from 'sponsorkit'
 
 export default defineConfig({
-  github: {
-    login: 'sayrix',
-    type: 'user',
-  },
   outputDir: '.',
   formats: ['json', 'svg'],
   tiers: [
@@ -17,7 +13,6 @@ export default defineConfig({
       title: 'Silver Sponsors 💖',
       monthlyDollars: 3,
       preset: tierPresets.medium,
-      // to insert custom elements after the tier block
       composeAfter: (composer, tierSponsors, config) => {
         composer.addSpan(10)
       },
