@@ -15,7 +15,7 @@ text {
   font-size: 20px;
 }
 </style>
-<text x="400" y="40" text-anchor="middle" class="sponsorkit-tier-title">Gold Sponsors 🧡</text><a href="https://msk-scripts.de" class="sponsorkit-link" target="_blank" id="Musiker15">
+<text x="400" y="40" text-anchor="middle" class="sponsorkit-tier-title">Gold Sponsors 🧡</text><a href="https://musiker15.de" class="sponsorkit-link" target="_blank" id="Musiker15">
   <text x="352.5" y="153" text-anchor="middle" class="sponsorkit-name" fill="currentColor">Musiker15</text>
   
   <clipPath id="c83eeed">
